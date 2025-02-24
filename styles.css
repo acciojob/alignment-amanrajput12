@@ -12,14 +12,14 @@ table,td{
 	border:1px solid black
 	
 }
-#t11{
+.left{
  text-align:left
 }
-#t12{
+.center{
  text-align:center
 }
 
-#t13{
+.right{
  text-align:right;
 }
 #t-image{
